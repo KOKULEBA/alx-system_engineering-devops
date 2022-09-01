@@ -1,1 +1,1 @@
-make a directory with 751 permissions
+change group owner to school
