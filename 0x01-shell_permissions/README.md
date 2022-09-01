@@ -1,1 +1,1 @@
-permissions to others except group and owner
+sets the mode of the file
