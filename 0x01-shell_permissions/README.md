@@ -1,1 +1,1 @@
-set mirror permissions
+add execute permissions to directories
