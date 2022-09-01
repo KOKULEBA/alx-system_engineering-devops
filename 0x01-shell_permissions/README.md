@@ -1,1 +1,1 @@
-add execute permissions to directories
+make a directory with 751 permissions
