@@ -1,1 +1,1 @@
-add execution permissions for everybody
+permissions to others except group and owner
