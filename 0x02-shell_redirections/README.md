@@ -1,1 +1,1 @@
-display only unique words
+display lines with a pattern
