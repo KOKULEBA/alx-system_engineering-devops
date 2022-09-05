@@ -1,1 +1,1 @@
-list files with gif extension
+decodes acrostic
