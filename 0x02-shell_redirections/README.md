@@ -1,1 +1,1 @@
-display lines with root and 3 after them
+display lines with no bin
