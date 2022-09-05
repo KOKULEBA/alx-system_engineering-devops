@@ -1,1 +1,1 @@
-decodes acrostic
+display ip addresses
