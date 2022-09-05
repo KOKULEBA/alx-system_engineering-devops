@@ -1,1 +1,1 @@
-display 10 newest lines
+display only unique words
