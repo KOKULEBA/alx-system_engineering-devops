@@ -1,1 +1,1 @@
-display lines with no bin
+display lines with letters
