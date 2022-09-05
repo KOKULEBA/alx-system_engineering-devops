@@ -1,1 +1,1 @@
-display lines with letters
+replace characters
