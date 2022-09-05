@@ -1,1 +1,1 @@
-display number of lines containing a word
+display lines with root and 3 after them
