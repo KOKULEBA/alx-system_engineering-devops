@@ -1,1 +1,1 @@
-list empty files
+list files with gif extension
