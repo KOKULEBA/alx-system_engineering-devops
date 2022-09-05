@@ -1,1 +1,1 @@
-count directories
+display 10 newest lines
