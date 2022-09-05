@@ -1,1 +1,1 @@
-display lines with a pattern
+display number of lines containing a word
