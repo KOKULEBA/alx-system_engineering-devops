@@ -1,1 +1,1 @@
-decoding text
+print every other line from input
