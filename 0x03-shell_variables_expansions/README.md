@@ -1,1 +1,1 @@
-divide power by divide
+braeath to the power of love
