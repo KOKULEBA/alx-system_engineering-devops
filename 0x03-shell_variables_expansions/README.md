@@ -1,1 +1,1 @@
-braeath to the power of love
+convert from base 2 to 10
