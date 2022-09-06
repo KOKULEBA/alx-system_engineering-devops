@@ -1,1 +1,1 @@
-true knowledge plus 128
+divide power by divide
