@@ -1,1 +1,1 @@
-print every other line from input
+add two numbers
